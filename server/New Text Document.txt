@@ -1,0 +1,5 @@
+I create this folder to add my needle to that
+there is 2 file added to render the code and get data from block chain
+some env I've needed so added to the .env file
+
+also you can add your prefer address to the url to get its data from ether blockchain
